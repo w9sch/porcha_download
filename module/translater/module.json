@@ -1,0 +1,9 @@
+{
+    "name": "Переводчик",
+    "description": "3 языка \n русский \n английский \n французкий",
+    "icon": "module.png",
+    "version": "0.0.2",
+    "author": "W9s",
+    "created_at": "2025-10-02",
+    "main_script": "translater.py"
+}
