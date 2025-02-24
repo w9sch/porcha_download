@@ -1,0 +1,9 @@
+{
+    "name": "запросы",
+    "description": "Тап-тап",
+    "icon": "module.png",
+    "version": "1.4.0",
+    "author": "W9s",
+    "created_at": "2025-09-02",
+    "main_script": "post.py"
+}
