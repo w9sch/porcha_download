@@ -1,0 +1,9 @@
+{
+    "name": "Файловый менеджер",
+    "description": "Тап-тап",
+    "icon": "module.png",
+    "version": "1.4.0",
+    "author": "W9s&Berhamon",
+    "created_at": "2025-09-02",
+    "main_script": "main.py"
+}
