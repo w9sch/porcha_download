@@ -1,9 +1,0 @@
-{
-    "name": "Интернет",
-    "description": "Интернет тест скорости,\n использование прокси",
-    "icon": "module.png",
-    "version": "1.0.4",
-    "author": "W9s",
-    "created_at": "2025-02-02",
-    "main_script": "wifi.py"
-}
