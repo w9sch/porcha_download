@@ -1,0 +1,9 @@
+{
+    "name": "Нейросеть",
+    "description": "7 моделей нейросетей",
+    "icon": "module.png",
+    "version": "1.1.2",
+    "author": "W9s",
+    "created_at": "2025-23-01",
+    "main_script": "tk_neiro.py"
+}
